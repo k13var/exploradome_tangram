@@ -181,7 +181,7 @@ For that purpose we used YOLOv4 Darknet (from AlexeyAB's Github repository) in t
 -  https://www.youtube.com/watch?v=mmj3nxGT2YQ
 -  https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial/tree/master/yolov4
 
-Here is the Colab Notebook for showing how we trained our YOLOv4 Tangram detector : 
+Here is the Colab Notebook for showing how we trained our YOLOv4 Tangram detector : https://colab.research.google.com/drive/1_4nU3peZgQOa_1_lGkgsVBdCy6c8zxid?usp=sharing
 
 In order to create a custom YOLOv4 detector we  needed the following:
 
